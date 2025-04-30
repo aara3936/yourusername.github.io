@@ -19,7 +19,7 @@
     <section id="about">
       <h2>About Me</h2>
       <p>This is a simple website hosted on GitHub Pages.</p>
-    </section>
+    </sec>
     <section id="projects">
       <h2>Projects</h2>
       <ul>
@@ -27,13 +27,9 @@
         <li>Project 2</li>
       </ul>
     </section>
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Email me at: <a href="mailto:you@example.com">you@example.com</a></p>
+    <secample.com">you@example.com</a></p>
     </section>
-  </main>
-  <footer>
-    <p>© 2025 Your Name</p>
+  </</p>
   </footer>
 </body>
 </html>
